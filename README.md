@@ -13,4 +13,5 @@
 https://user-slider-random.netlify.app/
 
 #### PREVIEW
-![User-slider-random](https://github.com/JuliaCMint/user-slider-random/assets/105377899/bf75ead1-39e1-44c6-b04e-5fcc81488836)
+
+![User-slider-random](https://github.com/JuliaCMint/user-slider-random/assets/105377899/0724a67d-9170-4b77-8c25-a59bdb99e9e2)
